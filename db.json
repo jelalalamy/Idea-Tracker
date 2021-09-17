@@ -1,0 +1,34 @@
+{
+  "ideas": [
+    {
+      "text": "Transform Clock app into a chrome extension.",
+      "desc": "Make it similar to the extension 'Momentum'. Add weather, todo, etc.",
+      "important": true,
+      "id": 1
+    },
+    {
+      "text": "Add more commands to birb discord bot.",
+      "desc": "Add some way to scrape Mudae messages and return it in a formatted way so that it will be easier to use commands like $adc and $ec.",
+      "important": false,
+      "id": 2
+    },
+    {
+      "text": "Run.",
+      "desc": "Literally just go outside for a run.",
+      "important": true,
+      "id": 3
+    },
+    {
+      "text": "Sleep for more than 6 hours.",
+      "desc": "",
+      "important": true,
+      "id": 4
+    },
+    {
+      "text": "Improve this app.",
+      "desc": "Add a feature to drag and drop to rearrange, or filter by importance, or push important ideas to the top.",
+      "important": false,
+      "id": 5
+    }
+  ]
+}
